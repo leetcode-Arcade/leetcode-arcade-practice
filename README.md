@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Leet Code Practice Test
+title: Leet Code Practice
 #permalink: index.html # in case of we remove the index.md file, this doc will be the index page
 ---
 
