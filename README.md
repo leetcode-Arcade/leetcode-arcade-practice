@@ -12,9 +12,8 @@ title: Leet Code Practice Test
 9. [Palindrome Number](9_PalindromeNumber/README.html)
 13. [Roman to Integer](13_RomanToInteger/README.html)
 
-### Edge of the Ocean
+### Medium
 
 {:start="4"}
 
-1. [Adjacent elements product](4_adjacentElementsProduct/README.html)
-1. [Shape area](5_shapeArea/README.html)
+### Hard
